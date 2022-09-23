@@ -1,0 +1,8 @@
+﻿EnableMouseInPointer
+CreateWindowExW
+DestroyWindow
+DispatcherQueueOptions
+CreateDispatcherQueueController
+ICompositorDesktopInterop
+CreateDirect3D11SurfaceFromDXGISurface
+IMemoryBufferByteAccess 
